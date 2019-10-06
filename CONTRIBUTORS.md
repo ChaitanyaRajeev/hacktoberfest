@@ -305,6 +305,12 @@ to explore life. Also, Python and Django Developer
 - Bio: Python Developer
 - Github [Arpit Gogia](https://github.com/arpitgogia)
 
+
+#### Name: [Chaitanya Rajeev](https://github.com/ChaitanyaRajeev)
+- Place: Hyderabad, India
+- Bio: Web Developer
+- Github [Chaitanya Rajeev](https://github.com/ChaitanyaRajeev)
+
 #### Name: [Ashish Krishan](https://github.com/ashishkrishan1995)
 - Place: India
 - Bio: Computer Science Major / UI/UX Designer
